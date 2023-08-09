@@ -42,3 +42,10 @@ main{
     background-position: center;
     background-repeat: no-repeat;
 }
+#br-text{
+    letter-spacing: 6px;
+    margin-right: 20px;
+}
+#Architects-text{
+    letter-spacing: 6px;
+}
